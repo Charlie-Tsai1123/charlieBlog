@@ -3,17 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/charlieBlog/posts/build-blog/</loc>
+    <loc>http://localhost:1313/charlieBlog/blog/</loc>
+    <lastmod>2025-07-14T17:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/charlieBlog/blog/build-blog/</loc>
+    <lastmod>2025-07-14T17:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/charlieBlog/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/charlieBlog/posts/</loc>
+    <lastmod>2025-07-14T17:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
